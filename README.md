@@ -15,6 +15,7 @@
 		* 날짜 : 3월 17일 23:20
 	* 도착 : 정동진역
 		* 날짜 : 3월 18일 04:39
+		
 ![image](https://user-images.githubusercontent.com/21994083/36719401-4acfcf64-1be8-11e8-9ce6-c5b02768ef45.png)
 
 * **복** : TBD (예매 예정 - 덩어리)
