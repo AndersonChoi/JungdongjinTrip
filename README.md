@@ -10,12 +10,14 @@
 ![정동진](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korail_Class_9000_Jeongdongjin.jpg/2560px-Korail_Class_9000_Jeongdongjin.jpg)
 
 ## 기차정보
-* **왕** : 무궁화1641열차
+* **왕** : 무궁화1641열차 (예매완료 - 재워닝)
 	* 출발 : 청량리
-		* 날짜 : 3월 17일 23:25
+		* 날짜 : 3월 17일 23:20
 	* 도착 : 정동진역
-		* 날짜 : 3월 18일 04:28
-* **복** : TBD
+		* 날짜 : 3월 18일 04:39
+![image](https://user-images.githubusercontent.com/21994083/36719401-4acfcf64-1be8-11e8-9ce6-c5b02768ef45.png)
+
+* **복** : TBD (예매 예정 - 덩어리)
 	* 출발 : TBD
 		* 날짜 : 3월 18일 TBD
 	* 도착 : TBD
